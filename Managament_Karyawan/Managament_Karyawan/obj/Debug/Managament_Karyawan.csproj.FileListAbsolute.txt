@@ -1,0 +1,68 @@
+C:\Users\atbiw\source\repos\Managament_Karyawan\Managament_Karyawan\bin\Debug\Managament_Karyawan.exe.config
+C:\Users\atbiw\source\repos\Managament_Karyawan\Managament_Karyawan\bin\Debug\Managament_Karyawan.exe
+C:\Users\atbiw\source\repos\Managament_Karyawan\Managament_Karyawan\bin\Debug\Managament_Karyawan.pdb
+C:\Users\atbiw\source\repos\Managament_Karyawan\Managament_Karyawan\obj\Debug\Managament_Karyawan.csproj.AssemblyReference.cache
+C:\Users\atbiw\source\repos\Managament_Karyawan\Managament_Karyawan\obj\Debug\Managament_Karyawan.csproj.SuggestedBindingRedirects.cache
+C:\Users\atbiw\source\repos\Managament_Karyawan\Managament_Karyawan\obj\Debug\Managament_Karyawan.LoginForm.resources
+C:\Users\atbiw\source\repos\Managament_Karyawan\Managament_Karyawan\obj\Debug\Managament_Karyawan.Properties.Resources.resources
+C:\Users\atbiw\source\repos\Managament_Karyawan\Managament_Karyawan\obj\Debug\Managament_Karyawan.csproj.GenerateResource.cache
+C:\Users\atbiw\source\repos\Managament_Karyawan\Managament_Karyawan\obj\Debug\Managament_Karyawan.csproj.CoreCompileInputs.cache
+C:\Users\atbiw\source\repos\Managament_Karyawan\Managament_Karyawan\obj\Debug\Managament_Karyawan.exe
+C:\Users\atbiw\source\repos\Managament_Karyawan\Managament_Karyawan\obj\Debug\Managament_Karyawan.pdb
+C:\Users\atbiw\source\repos\Managament_Karyawan\Managament_Karyawan\obj\Debug\Managament_Karyawan.EmployeeData.resources
+C:\Users\atbiw\source\repos\Managament_Karyawan\Managament_Karyawan\obj\Debug\Managament_Karyawan.Department.resources
+C:\Users\atbiw\source\repos\Managament_Karyawan\Managament_Karyawan\bin\Debug\Emp0b.mdf
+C:\Users\atbiw\source\repos\Managament_Karyawan\Managament_Karyawan\bin\Debug\Emp0b_log.ldf
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy\Managament_Karyawan\bin\Debug\Emp0b.mdf
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy\Managament_Karyawan\bin\Debug\Emp0b_log.ldf
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy\Managament_Karyawan\bin\Debug\Managament_Karyawan.exe.config
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy\Managament_Karyawan\bin\Debug\Managament_Karyawan.exe
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy\Managament_Karyawan\bin\Debug\Managament_Karyawan.pdb
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy\Managament_Karyawan\obj\Debug\Managament_Karyawan.csproj.AssemblyReference.cache
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy\Managament_Karyawan\obj\Debug\Managament_Karyawan.csproj.SuggestedBindingRedirects.cache
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy\Managament_Karyawan\obj\Debug\Managament_Karyawan.Department.resources
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy\Managament_Karyawan\obj\Debug\Managament_Karyawan.EmployeeData.resources
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy\Managament_Karyawan\obj\Debug\Managament_Karyawan.LoginForm.resources
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy\Managament_Karyawan\obj\Debug\Managament_Karyawan.Properties.Resources.resources
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy\Managament_Karyawan\obj\Debug\Managament_Karyawan.csproj.GenerateResource.cache
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy\Managament_Karyawan\obj\Debug\Managament_Karyawan.csproj.CoreCompileInputs.cache
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy\Managament_Karyawan\obj\Debug\Managament_Karyawan.exe
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy\Managament_Karyawan\obj\Debug\Managament_Karyawan.pdb
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy\Managament_Karyawan\bin\Debug\Emp0b.mdf
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy\Managament_Karyawan\bin\Debug\Emp0b_log.ldf
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy\Managament_Karyawan\bin\Debug\Managament_Karyawan.exe.config
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy\Managament_Karyawan\bin\Debug\Managament_Karyawan.exe
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy\Managament_Karyawan\bin\Debug\Managament_Karyawan.pdb
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy\Managament_Karyawan\obj\Debug\Managament_Karyawan.csproj.AssemblyReference.cache
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy\Managament_Karyawan\obj\Debug\Managament_Karyawan.csproj.SuggestedBindingRedirects.cache
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy\Managament_Karyawan\obj\Debug\Managament_Karyawan.Department.resources
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy\Managament_Karyawan\obj\Debug\Managament_Karyawan.EmployeeData.resources
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy\Managament_Karyawan\obj\Debug\Managament_Karyawan.LoginForm.resources
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy\Managament_Karyawan\obj\Debug\Managament_Karyawan.Properties.Resources.resources
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy\Managament_Karyawan\obj\Debug\Managament_Karyawan.csproj.GenerateResource.cache
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy\Managament_Karyawan\obj\Debug\Managament_Karyawan.csproj.CoreCompileInputs.cache
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy\Managament_Karyawan\obj\Debug\Managament_Karyawan.exe
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy\Managament_Karyawan\obj\Debug\Managament_Karyawan.pdb
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy\Managament_Karyawan\bin\Debug\ExcelDataReader.dll
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy\Managament_Karyawan\bin\Debug\ExcelDataReader.pdb
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy\Managament_Karyawan\bin\Debug\ExcelDataReader.xml
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy\Managament_Karyawan\obj\Debug\Managament_Karyawan.csproj.CopyComplete
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy - Copy\Managament_Karyawan\bin\Debug\Managament_Karyawan.exe.config
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy - Copy\Managament_Karyawan\bin\Debug\Managament_Karyawan.exe
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy - Copy\Managament_Karyawan\bin\Debug\Managament_Karyawan.pdb
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy - Copy\Managament_Karyawan\bin\Debug\ExcelDataReader.dll
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy - Copy\Managament_Karyawan\bin\Debug\ExcelDataReader.pdb
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy - Copy\Managament_Karyawan\bin\Debug\ExcelDataReader.xml
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy - Copy\Managament_Karyawan\obj\Debug\Managament_Karyawan.csproj.AssemblyReference.cache
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy - Copy\Managament_Karyawan\obj\Debug\Managament_Karyawan.csproj.SuggestedBindingRedirects.cache
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy - Copy\Managament_Karyawan\obj\Debug\Managament_Karyawan.EmployeeData.resources
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy - Copy\Managament_Karyawan\obj\Debug\Managament_Karyawan.LoginForm.resources
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy - Copy\Managament_Karyawan\obj\Debug\Managament_Karyawan.Properties.Resources.resources
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy - Copy\Managament_Karyawan\obj\Debug\Managament_Karyawan.csproj.GenerateResource.cache
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy - Copy\Managament_Karyawan\obj\Debug\Managament_Karyawan.csproj.CoreCompileInputs.cache
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy - Copy\Managament_Karyawan\obj\Debug\Managament_Karyawan.csproj.CopyComplete
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy - Copy\Managament_Karyawan\obj\Debug\Managament_Karyawan.exe
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy - Copy\Managament_Karyawan\obj\Debug\Managament_Karyawan.pdb
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy - Copy\Managament_Karyawan\bin\Debug\Demo1.mdf
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy - Copy\Managament_Karyawan\bin\Debug\Demo1_log.ldf
+C:\Users\atbiw\source\repos\Managament_Karyawan - Copy - Copy - Copy\Managament_Karyawan\obj\Debug\Managament_Karyawan.Report.resources
